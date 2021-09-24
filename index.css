@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;400&display=swap');
+
+
+body{
+    background-color:rgb(211, 204, 195);
+}
+
+.perkenalan{
+    width: max-content 200px;
+    color: whitesmoke;
+    background-color: rgb(65, 54, 54);
+    font-size: 200%;
+    text-align: center;
+
+}
+
+
+.hi{
+    height: max-content 300px;
+    font-family: 'Mukta', sans-serif;
+    background-color:rgb(255, 236, 212);
+    font-size: 110%;
+    line-height: 27px;
+}
+
+.pendidikan{
+    color: whitesmoke;
+    background-color: rgb(65, 54, 54);
+    text-align: center;
+    font-size: 200%;
+}
+
+.organisasi{
+    color: whitesmoke;
+    background-color: rgb(65, 54, 54);
+    text-align: center;
+    font-size: 160%;
+}
+.table{
+    font-size: 130%;
+}
+
+.inspirasi{
+    color: whitesmoke;
+    background-color: rgb(65, 54, 54);
+    text-align: center;
+    font-size: 160%;
+}
+
+.sab{
+
+    background-color: rgb(77, 42, 10);
+    padding-left: 5px;
+    font-size: 220%
+}
+
+.sab{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-right: 1450px; 
+    margin-left: 55px;
+}
+
+.foto {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(155, 155, 155);
+    border-radius: 200%;
+    margin: auto;
+}
+
+.li {
+    width: 200px;
+    height: 200px;
+    border-radius: 200%;
+}
